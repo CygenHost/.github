@@ -4,17 +4,9 @@ Welcome to Cygen Host, your one-stop solution for reliable and efficient hosting
 
 ## Services
 
-### Game Server Hosting
-
-Unleash the full potential of your gaming experience with our dedicated game server hosting. Enjoy low-latency, high-performance servers optimized for popular games. Whether you're a casual gamer or a professional esports team, we've got your hosting needs covered.
-
 ### Web Server Hosting
 
 Host your websites with confidence on our powerful and secure web servers. Take advantage of our robust infrastructure, high-speed connectivity, and scalable solutions. From small blogs to large-scale applications, Cygen Host ensures a seamless hosting experience.
-
-### Mail Server Hosting
-
-Ensure reliable communication with our mail server hosting services. Experience efficient and secure email hosting, whether for personal or business use. Benefit from features like spam protection, encryption, and easy integration with popular email clients.
 
 ## Key Features
 
