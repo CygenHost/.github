@@ -1,30 +1,23 @@
 # Cygen Host
 
-Welcome to Cygen Host, your one-stop solution for reliable and efficient hosting services. We specialize in providing top-notch hosting solutions, including game server hosting, web server hosting, and mail server hosting.
+Welcome to **Cygen Host**! We offer **affordable web hosting** with a focus on **supporting students** and **small businesses**. Our mission is to provide **free hosting for students** and **low-cost hosting** for everyone else, ensuring that anyone can get online without breaking the bank.
 
-## Services
+## Our Mission
 
-### Web Server Hosting
+We believe in making hosting **affordable, accessible, and sustainable** for all. By offering **free hosting** for students and **affordable plans** for startups, we aim to help new developers and small businesses grow online, with reliable services at their fingertips.
 
-Host your websites with confidence on our powerful and secure web servers. Take advantage of our robust infrastructure, high-speed connectivity, and scalable solutions. From small blogs to large-scale applications, Cygen Host ensures a seamless hosting experience.
+## Features
 
-## Key Features
+- **Free Hosting for Students**: A no-cost solution for students to build their projects and portfolios.
+- **Affordable Plans**: Budget-friendly hosting to help small businesses and startups grow without high costs.
+- **Global Servers**: Hosting infrastructure across multiple regions for fast and reliable performance.
 
-- **High Performance:** Our servers are optimized for speed and reliability, ensuring a smooth hosting experience.
-- **Security:** We prioritize the security of your data. Benefit from advanced security measures and regular updates.
-- **Scalability:** Scale your hosting resources as your needs grow. Our flexible solutions adapt to your requirements.
-- **24/7 Support:** Our dedicated support team is available around the clock to assist you with any queries or issues.
+## Links
 
-## Getting Started
+- **Website**: [https://cygen.host](https://cygen.host)
+- **LinkedIn**: [Cygen Host on LinkedIn](https://www.linkedin.com/company/cygen-host/)
+- **X**: [@CygenHost](https://x.com/CygenHost)
 
-Visit our [website](https://cygen.host) to explore our hosting plans and get started with Cygen Host today!
+## Contact
 
-## Documentation
-
-For detailed information on our services, configurations, and troubleshooting, check out our [documentation](https://docs.cygen.host).
-
-## Support and Contact
-
-If you have any questions or need assistance, feel free to reach out to our support team at [support@cygen.host](mailto:support@cygen.host).
-
-Thank you for choosing Cygen Host for your hosting needs! 🚀
+Need help? Reach out to us at **[support@cygen.host](mailto:support@cygen.host)**. We're here to assist you!
